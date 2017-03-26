@@ -1,4 +1,4 @@
-## 判断是否首次运行组件
+## 隐藏后台(返回桌面)
 
 更新于2016.10.2 版本1.0
 
@@ -10,7 +10,7 @@
 
 
 
-## Check if the first time to run component
+## Go To Desktop of The Phone(hide app)
  
 Version1.0 Update in Dec.2, 2016
 
