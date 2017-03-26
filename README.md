@@ -6,7 +6,8 @@
 
 在不关闭app的情况下返回手机桌面
 
-原网址：[http://aix.colintree.cn/down/ColinTreeGoHome][ori]
+原网址：http://aix.colintree.cn/down/ColinTreeGoHome  
+作者：ColinTree
 
 
 
@@ -18,7 +19,5 @@ A very simple but useful pocedure (function):
 
 Go to Homepage(Desktop) and also keep the app runing at the same time
 
-Original Web Page：[http://aix.colintree.cn/down/ColinTreeGoHome][ori]
-  
-  
-  [ori]: http://aix.colintree.cn/down/ColinTreeGoHome
+Original Web Page：http://aix.colintree.cn/down/ColinTreeGoHome  
+Author: ColinTree
